@@ -1,0 +1,7 @@
+interface:
+  display_name: "黑神话实况转绘"
+  short_description: "照片转黑神话悟空东方神话截图质感提示词"
+  default_prompt: "使用 $blackmyth-wukong-transfer 将这张参考照片转成《黑神话：悟空》游戏截图质感，并输出可复用提示词。"
+
+policy:
+  allow_implicit_invocation: true
